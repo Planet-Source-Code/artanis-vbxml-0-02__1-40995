@@ -1,0 +1,2 @@
+<contacts>
+	<Example><street></street><city></city><email></email><notes>This is an example of vbXML 0.02 in use.  Not commented as much as the last example, but it is very easy to understand.  It just demonstrates the power of the child node functions/methods.</notes><lname></lname><phone>555-555-5555</phone><state></state><zip></zip></Example></contacts>
